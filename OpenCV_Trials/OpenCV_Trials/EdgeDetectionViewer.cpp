@@ -1,3 +1,5 @@
+// Base code for checking edges using a trackbar - not written by me, available in the opencv-(version) docs
+
 
 #include "OpenCV_Trials.h"
 
