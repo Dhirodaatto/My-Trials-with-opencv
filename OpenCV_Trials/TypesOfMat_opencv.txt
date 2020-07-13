@@ -1,0 +1,8 @@
+Color image: Mat3b
+Gray scale image: Mat1b
+Matrix of floating point values: Mat1f
+Matrix of double precision values: Mat1d
+Matrix of integer values: Mat1i
+
+
+//remember to use the required one for optimization
