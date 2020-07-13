@@ -1,3 +1,6 @@
+// This file contains all the resizing code needed, super simple but I thought it felt better sitting in a separate file of it own
+
+
 #include "OpenCV_Trials.h"
 
 using namespace std;
